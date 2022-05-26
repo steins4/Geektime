@@ -9,5 +9,11 @@
         <module name="com-steins-geektime-beauty_of_compilation_principle" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="11" />
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="com-steins-geektime-beauty_of_compilation_principle" options="" />
+    </option>
   </component>
 </project>
